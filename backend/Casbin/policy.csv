@@ -1,0 +1,9 @@
+# alice可以读取article
+p, alice, article, read
+
+# alice可以写入article
+p, alice, article, write
+
+# bob可以读取article
+p, bob, article, read
+
